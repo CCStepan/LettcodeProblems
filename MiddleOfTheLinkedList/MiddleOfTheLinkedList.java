@@ -2,6 +2,7 @@ package MiddleOfTheLinkedList;
 
 public class MiddleOfTheLinkedList {
 
+
 }
 
 
