@@ -21,5 +21,6 @@ class Solution {
             hashMap.put(nums[i], i);
         }
         return new int[] {};
+
     }
 }
